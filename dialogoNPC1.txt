@@ -1,3 +1,4 @@
 Hola que tal
 Hasta luego, vuelva pronto.
 ¿Quiere comprar?
+["dialogoNPC-NO"]
